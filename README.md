@@ -19,3 +19,10 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 >>>>>>> 创建项目
+
+## flutter note
+[flutter 异步](https://mp.weixin.qq.com/s/Ygs-sOtrohNf4vGpZcrnYw)
+
+[Flutter之搞定Dart（二）](https://mp.weixin.qq.com/s/xdSYvqSYOXTOCeb89C1uvg)
+
+[Flutter之搞定Dart（一）](https://mp.weixin.qq.com/s/skXbL-eXZiPD5gHcN6CKAg)
